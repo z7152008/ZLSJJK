@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.3.0)
+  - GTMRefresh (1.1.0)
+  - RappleProgressHUD (2.1.2)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - GTMRefresh
+  - RappleProgressHUD
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  GTMRefresh: f66a67299273cd2ad0d32c7a23d65a826ef7c0f0
+  RappleProgressHUD: ec6c9d990661c7299ca30eb034e77b2d1c5e90c3
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 77bf615ab7eb8fcaa3c257d2c73fa4ca10af6e99
+
+COCOAPODS: 1.2.0
